@@ -1,0 +1,9 @@
+Building SPAR
+
+See doc/readme-qt.rst for instructions on building SPAR QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of SPAR.
+
+See doc/build-*.txt for instructions on building spard,
+the intended-for-services, no-graphical-interface, reference
+implementation of SPAR.
